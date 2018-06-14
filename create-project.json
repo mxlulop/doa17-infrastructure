@@ -1,12 +1,12 @@
 {
-  "name": "luis-project",
+  "name": "mxlulop-project",
   "source": {
     "type": "S3",
     "location": "doa17-application/codebuild.zip"
   },
   "artifacts": {
     "type": "S3",
-    "location": "doa17-luis",
+    "location": "doa17-mxlulop",
     "packaging": "ZIP",
     "name": "WebAppOutputArtifact.zip"
   },
